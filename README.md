@@ -34,7 +34,7 @@ studying:    B.E. Computer Science, KLS GIT Belagavi (2024 – 2028)
 cgpa:        8.375 / 10
 based_in:    Karnataka, India
 building:    Cloud-native apps and multi-agent AI systems
-leetcode:    65 problems solved, 50 & 100 Days Badges 2026
+leetcode:    70+ problems solved, 50 & 100 Days Badges 2026
 open_to:     Cloud engineering internships and opportunities
 ```
 
@@ -135,7 +135,7 @@ An AI-powered CAD generation system that converts **natural-language requirement
 - AI-assisted engineering workflow
 - 3D visualization for generated designs
 
-`Python` `FastAPI` `React` `Gemini AI` `CadQuery` `OpenSCAD` `Three.js`
+`Python` `FastAPI` `React` `Gemini AI` `OpenSCAD` `Three.js`
 
 ---
 
@@ -176,7 +176,7 @@ A full-stack AI-powered meme platform with AI-assisted caption generation and pe
 
 I regularly practice **Data Structures & Algorithms** and use LeetCode to strengthen problem-solving skills.
 
-**65+ LeetCode problems solved** across topics including:
+**70+ LeetCode problems solved** across topics including:
 
 `Dynamic Programming` · `Divide & Conquer` · `Backtracking` · `Hash Tables` · `Two Pointers`
 
@@ -186,8 +186,8 @@ I regularly practice **Data Structures & Algorithms** and use LeetCode to streng
 
 ## 🏆 Achievements
 
-- 👨‍💻 **Technical Coordinator — CodeChef:** Coordinated technical activities and collaborated with students on coding initiatives.
-- 🎪 **AURA 2026 — Technical Team:** Contributed to the technical execution of a national-level college cultural fest.
+- 👨‍💻 **Technical Coordinator — KLS Gogte Institute of Technology, Belagavi ** 
+- 👨‍💻 **Technical Coordinator — CodeChef, KLS Gogte Institute of Technology, Belagavi ** 
 - 🧠 **Google Cloud Gen AI Academy — APAC Edition:** Participated across Cohorts 1, 2 and 3.
 - 🚀 **Singularity X Hackathon, IEEE RAS:** Built Kavach-AI during a 36-hour hackathon.
 
@@ -195,8 +195,7 @@ I regularly practice **Data Structures & Algorithms** and use LeetCode to streng
 
 ## 📜 Certifications
 
-- **Engineer AI Agents with Agent Development Kit (ADK)** — Google Cloud, 2026
-- **Gen AI Academy — APAC Edition** — Google Cloud, 2026
+- **Gen AI Academy, APAC Edition 2026,(Cohorts 1, 2 and 3)** -  Google Cloud, 2026
 - **Foundations of Deep Learning** — NPTEL
 - **Database Management Systems** — NPTEL
 - **AI/ML for Geodata Analytics** — IIRS | ISRO
@@ -235,21 +234,8 @@ I also create graphic designs and pencil sketches, which feeds into how I think 
   <a href="https://www.instagram.com/graphics.by.mayur"><b>@graphics.by.mayur</b></a> for graphic designs &nbsp;·&nbsp;
   <a href="https://www.instagram.com/sketches.by.mayur"><b>@sketches.by.mayur</b></a> for sketches
 </p>
----
 
 
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayur-dharwadkar-937125397/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Mayur-N-D">
-    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
-
-<div align="center">
 
 ### ⚡ Building intelligent systems at the intersection of Cloud & AI
 
