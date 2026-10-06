@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=Mayur-N-D&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 ---
-👨‍💻 About Me
+## 👨‍💻 About Me
 I'm a third-year Computer Science undergraduate at KLS Gogte Institute of Technology, Belagavi, with a focus on cloud-native engineering and agentic AI. I design, build and deploy applications on Google Cloud Platform, from multi-agent systems built with Google ADK and MCP to full-stack products served through FastAPI, React and Cloud Run.
 I like projects that go beyond a demo: an agent that answers location questions from real BigQuery data, a planner that remembers your preferences across sessions, or a CAD generator that outputs files you can actually 3D print. Outside of code, I design graphics and draw sketches.
 ```yaml
@@ -31,8 +31,8 @@ leetcode:    65 problems solved, 50 & 100 Days Badges 2026
 open_to:     Cloud engineering internships and opportunities
 ```
 ---
-🛠️ Tech Stack
-☁️ Cloud & DevOps
+## 🛠️ Tech Stack
+🔹☁️ Cloud & DevOps
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
@@ -41,14 +41,14 @@ open_to:     Cloud engineering internships and opportunities
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-🤖 AI & Agents
+🔹🤖 AI & Agents
 ![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-7F5AF0?style=flat-square)
 ![GenAI](https://img.shields.io/badge/Generative_AI-0E75B6?style=flat-square)
-⚙️ Backend & Databases
+🔹⚙️ Backend & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -56,7 +56,7 @@ open_to:     Cloud engineering internships and opportunities
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-🎨 Frontend & Design
+🔹🎨 Frontend & Design
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -68,7 +68,7 @@ open_to:     Cloud engineering internships and opportunities
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 💬 Languages: Python · Java · JavaScript · SQL
 ---
-🚀 Featured Projects
+## 🚀 Featured Projects
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -95,7 +95,7 @@ open_to:     Cloud engineering internships and opportunities
     </td>
   </tr>
 </table>
-🧩 More from my repositories
+🔹🧩 More from my repositories
 Project	What it is	Stack
 FilmAura	Streaming platform UI for movies and web series with smooth navigation	HTML, CSS, JS
 WeatherApp	Responsive app showing real-time weather from an external API	React
@@ -104,20 +104,20 @@ QuizApp	Multiple-choice quiz with a final score screen	React, Vite
 validation	Login / Sign Up form UI with frontend validation	React, Vite
 forage-midas	JPMorgan Chase Advanced Software Engineering virtual experience	Java
 ---
-🏆 Certifications & Achievements
-Certifications
-☁️ Engineer AI Agents with Agent Development Kit (ADK), Google Cloud (2026)
-🎓 Gen AI Academy, APAC Edition 2026, Google Cloud (Cohorts 1, 2 and 3)
-🛰️ AIML for Geodata Analytics, IIRS | ISRO
-🧠 Foundations of Deep Learning and Database Management Systems, NPTEL
-💼 Software Engineering Virtual Experience, JPMorgan Chase (Forage)
-Achievements
-🧩 Solved 65 LeetCode problems across DP, backtracking, divide and conquer, hash tables and two pointers; earned the 50 Days and 100 Days badges (2026)
-🏁 Built Kavach-AI in a 36-hour hackathon by IEEE RAS
-👥 Technical Coordinator, CodeChef chapter at college
-🎪 Technical Team, AURA 2026, a national-level college cultural fest
+## 🏆 Certifications & Achievements
+🔹Certifications
+- ☁️ Engineer AI Agents with Agent Development Kit (ADK), Google Cloud (2026)
+- 🎓 Gen AI Academy, APAC Edition 2026, Google Cloud (Cohorts 1, 2 and 3)
+- 🛰️ AIML for Geodata Analytics, IIRS | ISRO
+- 🧠 Foundations of Deep Learning and Database Management Systems, NPTEL
+- 💼 Software Engineering Virtual Experience, JPMorgan Chase (Forage)
+🔹Achievements
+- 🧩 Solved 65 LeetCode problems across DP, backtracking, divide and conquer, hash tables and two pointers; earned the 50 Days and 100 Days badges (2026)
+- 🏁 Built Kavach-AI in a 36-hour hackathon by IEEE RAS
+- 👥 Technical Coordinator, CodeChef chapter at college
+- 🎪 Technical Team, AURA 2026, a national-level college cultural fest
 ---
-📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mayur-N-D&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-N-D&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
@@ -126,14 +126,14 @@ Achievements
   <img src="https://streak-stats.demolab.com?user=Mayur-N-D&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 ---
-🎨 Beyond Code
+## 🎨 Beyond Code
 I also create graphic designs and pencil sketches, which feeds into how I think about UI and product polish.
 <p>
   <a href="https://www.instagram.com/graphics.by.mayur"><b>@graphics.by.mayur</b></a> for graphic designs &nbsp;·&nbsp;
   <a href="https://www.instagram.com/sketches.by.mayur"><b>@sketches.by.mayur</b></a> for sketches
 </p>
 ---
-🤝 Let's Connect
+## 🤝 Let's Connect
 I'm open to cloud engineering internships, collaborations on agentic AI projects, and hackathon teams. Feel free to reach out on LinkedIn or by email.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,100:0e75b6&height=110&section=footer" alt="footer"/>
