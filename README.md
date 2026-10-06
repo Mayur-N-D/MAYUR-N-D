@@ -1,31 +1,43 @@
-<div align="center">
-
-# Hi 👋, I'm Mayur Dharwadkar
-
-### Cloud Computing • Agentic AI • Full-Stack Engineering
-
-<p>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7f5af0&height=200&section=header&text=Mayur%20N%20Dharwadkar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20Agentic%20AI%20%7C%20Full-Stack&descAlignY=58&descSize=18" alt="banner"/>
+</p>
+<p align="center">
   <a href="https://github.com/Mayur-N-D">
-    <img src="https://img.shields.io/badge/GitHub-Mayur--N--D-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mayur-dharwadkar-937125397/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mayur%20Dharwadkar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=640&lines=Cloud+Engineer+in+the+making+%E2%98%81%EF%B8%8F;I+build+multi-agent+AI+systems+%F0%9F%A4%96;Google+ADK+%C2%B7+MCP+%C2%B7+Vertex+AI+%C2%B7+Cloud+Run;Turning+ideas+into+deployed+products+%F0%9F%9A%80" alt="typing intro"/>
   </a>
 </p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Mayur-N-D&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayur-dharwadkar-937125397/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/MayurND/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="mailto:mayurdharwadkar39@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.instagram.com/graphics.by.mayur"><img src="https://img.shields.io/badge/Designs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Graphic designs on Instagram"/></a>
+  <a href="https://www.instagram.com/sketches.by.mayur"><img src="https://img.shields.io/badge/Sketches-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Sketches on Instagram"/></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mayur-N-D&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Mayur Dharwadkar**, a Computer Science Engineering undergraduate at **KLS Gogte Institute of Technology, Belagavi**.
+I'm **Mayur N Dharwadkar**, a Computer Science undergraduate at KLS Gogte Institute of Technology with hands-on experience designing, building and deploying cloud
+native applications on Google Cloud Platform using Cloud Run, Vertex AI, BigQuery and containerized workloads. Built multi-agent AI 
+systems with Google ADK and MCP, with FastAPI and React services on top. Certified through Google Cloud Gen AI Academy and the 
+Google Cloud ADK program, solved 65 LeetCode problems. 
 
-I build **cloud-native applications, AI agents, and full-stack systems** with a focus on turning real-world problems into practical software.
+```yaml
+name:        Mayur N Dharwadkar
+studying:    B.E. Computer Science, KLS GIT Belagavi (2024 – 2028)
+cgpa:        8.375 / 10
+based_in:    Karnataka, India
+building:    Cloud-native apps and multi-agent AI systems
+leetcode:    65 problems solved, 50 & 100 Days Badges 2026
+open_to:     Cloud engineering internships and opportunities
+```
+
 
 My work sits at the intersection of:
 
@@ -216,6 +228,16 @@ Alva's PU College, Moodbidri
 
 ---
 
+## 🎨 Beyond Code
+
+I also create graphic designs and pencil sketches, which feeds into how I think about UI and product polish.
+<p>
+  <a href="https://www.instagram.com/graphics.by.mayur"><b>@graphics.by.mayur</b></a> for graphic designs &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/sketches.by.mayur"><b>@sketches.by.mayur</b></a> for sketches
+</p>
+---
+
+
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -232,3 +254,5 @@ Alva's PU College, Moodbidri
 ### ⚡ Building intelligent systems at the intersection of Cloud & AI
 
 </div>
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,100:0e75b6&height=110&section=footer" alt="footer"/> </p>
