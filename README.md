@@ -1,72 +1,234 @@
-# Hi 👋, I'm Mayur N Dharwadkar[cite: 1]
+<div align="center">
 
-### Cloud Computing & Agentic AI Developer | Computer Science Undergraduate[cite: 1]
+# Hi 👋, I'm Mayur Dharwadkar
 
-<p align="center">
+### Cloud Computing • Agentic AI • Full-Stack Engineering
+
+<p>
   <a href="https://github.com/Mayur-N-D">
-    <img src="https://komarev.com/ghpvc/?username=Mayur-N-D&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+    <img src="https://img.shields.io/badge/GitHub-Mayur--N--D-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mayur-dharwadkar-937125397/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mayur%20Dharwadkar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Mayur-N-D&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+</div>
+
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-I am a Computer Science undergraduate at KLS Gogte Institute of Technology (2024–2028)[cite: 1]. My expertise lies in designing, building, and deploying cloud-native applications on Google Cloud Platform, utilizing tools like Cloud Run, Vertex AI, and BigQuery[cite: 1]. I am deeply passionate about building multi-agent AI systems leveraging Google ADK and MCP, supported by robust containerized workloads, FastAPI, and React services[cite: 1]. 
+I'm **Mayur Dharwadkar**, a Computer Science Engineering undergraduate at **KLS Gogte Institute of Technology, Belagavi**.
+
+I build **cloud-native applications, AI agents, and full-stack systems** with a focus on turning real-world problems into practical software.
+
+My work sits at the intersection of:
+
+- ☁️ **Cloud Computing & Cloud-Native Development**
+- 🤖 **Generative AI & Agentic AI**
+- 🧩 **Multi-Agent Systems & MCP**
+- 🌍 **Geospatial / Location Intelligence**
+- ⚙️ **Backend & API Engineering**
+- 💻 **Full-Stack Development**
+
+I enjoy experimenting with new ideas, building end-to-end products, and learning by shipping working systems.
+
+---
+
+## 🧠 What I Build
+
+> **AI that can reason. Cloud systems that can scale. Software that people can use.**
+
+I'm particularly interested in systems that combine:
+
+**LLMs → Agents → Tools/APIs → Data → Cloud Infrastructure → User-Facing Applications**
+
+From natural-language location analysis to multi-agent travel planning and AI-assisted engineering workflows, I like building systems where AI is connected to real tools and real data.
 
 ---
 
 ## 🛠️ Tech Stack
 
-*   **Cloud & DevOps:** Google Cloud Platform, Cloud Run, BigQuery, Vertex AI, Containerized Deployments, Linux, Git, GitHub[cite: 1]
-*   **AI/ML:** Generative AI, Agentic AI, Multi-Agent Systems, Google ADK, MCP (Model Context Protocol), Ollama[cite: 1]
-*   **Backend:** Python, Java, JavaScript, FastAPI, Flask, Node.js, Express, REST APIs[cite: 1]
-*   **Frontend:** React, Vite, Tailwind CSS, HTML5, CSS3[cite: 1]
-*   **Databases:** BigQuery, MongoDB, SQL Databases[cite: 1]
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,sql" alt="Languages"/>
+</p>
+
+### AI / Agentic AI
+
+**Generative AI · Agentic AI · Multi-Agent Systems · Google ADK · MCP · Gemini · Vertex AI · Ollama**
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,docker,linux,git,github" alt="Cloud and DevOps"/>
+</p>
+
+**Google Cloud Platform · Cloud Run · BigQuery · Vertex AI · Containerized Deployments · Linux · Git · GitHub**
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" alt="Backend"/>
+</p>
+
+**FastAPI · Flask · Node.js · Express · REST APIs**
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" alt="Frontend"/>
+</p>
+
+**React · Vite · Tailwind CSS · HTML5 · CSS3**
+
+### Data & Tools
+
+**BigQuery · MongoDB · SQL Databases · Postman · Figma · Canva**
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Selected Projects
 
-*   **GeoMind AI (Location Intelligence Agent):** Engineered a cloud-hosted spatial intelligence system that transforms natural language queries into location-based insights on Google Cloud Platform[cite: 1]. Implemented MCP servers for tool orchestration and integrated BigQuery and Google Maps APIs for real-time visualization[cite: 1].
-*   **Multi-Agent AI Travel Planner:** Developed a travel planning platform on Vertex AI featuring an Agent-as-Tool architecture (planner, recommendation, memory agents)[cite: 1]. It integrates Gemini 2.5 Flash, Google Search, and Weather APIs to generate real-time itineraries with persistent preference memory across sessions[cite: 1].
-*   **MemeManoranjan:** Built a full-stack, AI-powered meme generation platform deployed as containerized workloads on Google Cloud Run[cite: 1]. It features AI-assisted caption generation, a React + Tailwind frontend, and a Node.js/Express backend[cite: 1].
-*   **Kavach-AI (Singularity X Hackathon):** Created an AI-powered CAD generation system in 36 hours that converts natural language prompts into printable, export-ready electronics enclosure designs (STL/OpenSCAD) complete with mounting points and ventilation[cite: 1]. 
+### 🌍 [GeoMind AI — Location Intelligence Agent](https://github.com/Mayur-N-D/GeoMind-AI)
+
+A natural-language location intelligence system that combines **Google ADK, MCP, BigQuery, Google Maps, Gemini, and Vertex AI** to transform geographic and business data into actionable insights.
+
+**Highlights**
+
+- Natural-language geographic queries
+- MCP-based tool orchestration
+- BigQuery spatial/data analysis
+- Google Maps visualization
+- Business opportunity and location analysis
+
+`Python` `Google ADK` `MCP` `BigQuery` `Google Maps` `Vertex AI`
 
 ---
 
-## 🏆 Achievements & Involvement
+### 🛡️ [Kavach-AI — Intelligent Electronics Enclosure Generator](https://github.com/Mayur-N-D/Kavach-AI)
 
-*   Solved 65 LeetCode problems (Dynamic Programming, Divide and Conquer, Backtracking, etc.) and earned the 50 Days and 100 Days Badges in 2026 for consistent daily practice[cite: 1].
-*   **Technical Coordinator, CodeChef:** Coordinated technical activities and collaborated with students on coding initiatives[cite: 1].
-*   **Technical Team, AURA 2026:** Contributed to the technical execution of the national-level college cultural fest[cite: 1].
+An AI-powered CAD generation system that converts **natural-language requirements into printable electronics enclosure designs**.
+
+**Highlights**
+
+- Automated mounting points, ventilation, and structural supports
+- Export-ready **STL** and **OpenSCAD** outputs
+- AI-assisted engineering workflow
+- 3D visualization for generated designs
+
+`Python` `FastAPI` `React` `Gemini AI` `CadQuery` `OpenSCAD` `Three.js`
+
+---
+
+### ✈️ Multi-Agent AI Travel Planner
+
+A personalized travel planning platform built around **multiple collaborating agents** and external tools.
+
+**Highlights**
+
+- 3 specialized agents working together
+- Agent-as-Tool architecture
+- Google Search and Weather integrations
+- Persistent preference memory
+- Cloud deployment using Cloud Run
+
+`Python` `Google ADK` `Vertex AI` `Gemini` `Cloud Run`
+
+[Explore more projects →](https://github.com/Mayur-N-D)
+
+---
+
+### 🎭 [MemeManoranjan](https://github.com/Mayur-N-D/MemeManoranjan)
+
+A full-stack AI-powered meme platform with AI-assisted caption generation and personalized content management.
+
+**Highlights**
+
+- React + Tailwind frontend
+- Node.js + Express backend
+- MongoDB data layer
+- Containerized deployment on Google Cloud Run
+
+`React` `Tailwind CSS` `Node.js` `Express` `MongoDB` `Cloud Run`
+
+---
+
+## 📊 Problem Solving
+
+I regularly practice **Data Structures & Algorithms** and use LeetCode to strengthen problem-solving skills.
+
+**65+ LeetCode problems solved** across topics including:
+
+`Dynamic Programming` · `Divide & Conquer` · `Backtracking` · `Hash Tables` · `Two Pointers`
+
+🏅 Earned the **50 Days** and **100 Days** LeetCode badges in 2026.
+
+---
+
+## 🏆 Achievements
+
+- 👨‍💻 **Technical Coordinator — CodeChef:** Coordinated technical activities and collaborated with students on coding initiatives.
+- 🎪 **AURA 2026 — Technical Team:** Contributed to the technical execution of a national-level college cultural fest.
+- 🧠 **Google Cloud Gen AI Academy — APAC Edition:** Participated across Cohorts 1, 2 and 3.
+- 🚀 **Singularity X Hackathon, IEEE RAS:** Built Kavach-AI during a 36-hour hackathon.
 
 ---
 
 ## 📜 Certifications
 
-*   Engineer AI Agents with Agent Development Kit (ADK) – Google Cloud (2026)[cite: 1]
-*   Gen AI Academy – Google Cloud APAC Edition 2026 (Cohorts 1, 2, & 3)[cite: 1]
-*   Foundations of Deep Learning & Database Management Systems – NPTEL[cite: 1]
-*   AIML for Geodata Analytics – IIRS ISRO[cite: 1]
+- **Engineer AI Agents with Agent Development Kit (ADK)** — Google Cloud, 2026
+- **Gen AI Academy — APAC Edition** — Google Cloud, 2026
+- **Foundations of Deep Learning** — NPTEL
+- **Database Management Systems** — NPTEL
+- **AI/ML for Geodata Analytics** — IIRS | ISRO
 
 ---
 
-## 📈 GitHub Stats
+## 🎓 Education
+
+**B.E. — Computer Science Engineering**  
+KLS Gogte Institute of Technology, Belagavi  
+`2024 – 2028` · **CGPA: 8.375 / 10.0**
+
+**Pre-University Course — PCMB**  
+Alva's PU College, Moodbidri  
+`2022 – 2024` · **94%**
+
+---
+
+## 📈 GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-N-D&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-N-D&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayur-N-D&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-N-D&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur-N-D&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Mayur-N-D&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
-*   **LinkedIn:** [Mayur Dharwadkar](https://www.linkedin.com/in/mayur-dharwadkar-937125397/)
-*   **GitHub:** [Mayur-N-D](https://github.com/Mayur-N-D/)
-*   **Email:** mayurdharwadkar39@gmail.com[cite: 1]
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayur-dharwadkar-937125397/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Mayur-N-D">
+    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+<div align="center">
+
+### ⚡ Building intelligent systems at the intersection of Cloud & AI
+
+</div>
